@@ -163,9 +163,9 @@ export default {
           id: '798a0b8b69652854e513aca5881dbb49',
         },
         {
-          name: 'Семякин Андрей',
+          name: 'Семякин Андрюшка',
           desk: 1,
-          id: '4c03727eaa54ef869a3a43ce565fbd84',
+          id: '7e11904cd6322e14475776d1326724e4',
         },
         {
           name: 'Семякин Андрей',
@@ -183,12 +183,12 @@ export default {
           id: '8b9dedc057bc40d0c71703f48f7ac927',
         },
         {
-          name: 'Будько Людмила',
+          name: 'Бутько Людмила',
           desk: 2,
           id: '09aff8e3851edc9c4cc0f3c96afd40f5',
         },
         {
-          name: 'Будько Анна',
+          name: 'Бутько Анна',
           desk: 2,
           id: '1aae7475a2113721fbac639a6c5ea669',
         },

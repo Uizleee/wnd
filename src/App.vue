@@ -3,7 +3,7 @@
       <Menu
         :isPerson="!!currentPerson"
       />
-      <img src="@/assets/imgs/head.jpg" style="width: 100%; height: auto" />
+      <img src="@/assets/imgs/head.jpg" style="width: 100%; height: auto;"/>
       <Concept id="concepts"/>
       <Map id="maps"/>
       <Timing id="timings"/>
@@ -75,6 +75,8 @@ export default {
   flex-direction: column;
   max-width: 900px;
   text-align: center
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  border-radius: 5px
 
 h2
   padding: 25px 0px 5px 0px

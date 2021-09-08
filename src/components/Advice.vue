@@ -28,7 +28,7 @@ export default {
 .container{
     display: flex;
     flex-direction: column;
-    padding: 0%;
-    border:1px solid silver;
-}
+    padding: 5%;
+    }
+
 </style>

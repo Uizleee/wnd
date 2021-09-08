@@ -43,8 +43,3 @@ export default {
   components: {},
 };
 </script>
-<style>
-.h3{
-    font-size: 70px;
-}
-</style>
