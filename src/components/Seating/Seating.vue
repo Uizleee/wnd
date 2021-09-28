@@ -13,6 +13,11 @@
         <div class="neighbors-list">
           {{ neighborsStr }}
         </div>
+        <div>
+          <a href="/docs/0210.pdf" download="0210.pdf">
+          <button>Полная Рассадка</button>
+          </a>
+        </div>
       </template>
     </div>
 </template>
@@ -64,4 +69,17 @@ export default {
     font-size: 25px;
     font-weight: 600;
     color: #AE957C;
+
+  button
+    text-decoration: none;
+    border: 0;
+    display: inline-block;
+    color: white;
+    padding: 20px 30px;
+    margin: 10px 20px;
+    border-radius: 10px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background-image: linear-gradient(to right, #AE957C 0%, #FAFAD2 75%, #844200 100%);
+    background-size: 200% auto;
 </style>
